@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Nabin Poudel <br>💻 Passionate about web development | Laravel | PHP | JavaScript | Tailwind CSS<br>🔧 Love working on user-friendly, flexible, and efficient web applications<br>📌 Exploring payment integrations, UI improvements, and seamless user experiences<br>📫 Reach me at: pona_bca2079@lict.edu.np
+👋 Hi, I'm Nabin Poudel <br>💻 Passionate about web development | Laravel | PHP | JavaScript | Tailwind CSS | Flutter <br>🔧 Love working on user-friendly, flexible, and efficient web along with Mobile Application<br>📌 Exploring payment integrations, UI improvements, and seamless user experiences<br>📫 Reach me at: pona_bca2079@lict.edu.np
 
 
 ## 🌐 Socials:
