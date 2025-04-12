@@ -17,9 +17,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinn10&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🚀 My Featured Projects:
-- [The Online Liquor Vault](https://github.com/nabinn10/The-Online-Liquor-Vault) 🍾
+- [The Online Liquor Vault](https://github.com/nabinn10/The-Online-Liquor-Vault) 🍾  
 - [E-commerce Billing System](https://github.com/nabinn10/Billing-System) 🛒  
-- [Flutter Mobile App](https://github.com/nabinn10/Flutter-App) 📱
+- [Flutter Mobile App](https://github.com/nabinn10/Flutter-App) 📱  
+- [Event Booking System](https://github.com/nabinn10/Event-Booking-System) 🎟️
 
 
 ## 🏆 GitHub Trophies
