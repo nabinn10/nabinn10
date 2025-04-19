@@ -18,9 +18,10 @@
 
 ## 🚀 My Featured Projects:
 - [The Online Liquor Vault](https://github.com/nabinn10/The-Online-Liquor-Vault) 🍾  
-- [E-commerce Billing System](https://github.com/nabinn10/Billing-System) 🛒  
+- [The Dental Clinic](https://github.com/nabinn10/The-Dental-Clinic) 🦷  
+- [The Tattoo Center](https://github.com/nabinn10/The-Tattoo-Center) 🖋️  
 - [Flutter Mobile App](https://github.com/nabinn10/Flutter-App) 📱  
-- [Event Booking System](https://github.com/nabinn10/Event-Booking-System) 🎟️
+- [Event Booking System](https://github.com/nabinn10/Event-Booking-System) 🎟️  
 
 
 ## 🏆 GitHub Trophies
