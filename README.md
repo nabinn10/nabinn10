@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Nabin Poudel <br>💻 Passionate about web development | Laravel | PHP | HTML | JavaScript | Tailwind CSS | Dart | Flutter <br>🔧 Love working on user-friendly, flexible, and efficient web along with Mobile Application<br>📌 Exploring payment integrations, UI Improvements, and seamless user experiences<br>📫 Reach me at: pona_bca2079@lict.edu.np | nabinpoudel2061@gmail.com
+👋 Hi, I'm Nabin Poudel <br>💻 Passionate about web development | Laravel | PHP | Java | HTML | JavaScript | Tailwind CSS | Dart | Flutter <br>🔧 Love working on user-friendly, flexible, and efficient web along with Mobile Application<br>📌 Exploring payment integrations, UI Improvements, and seamless user experiences<br>📫 Reach me at: pona_bca2079@lict.edu.np | nabinpoudel2061@gmail.com
 
 
 ## 🌐 Socials:
