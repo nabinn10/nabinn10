@@ -22,7 +22,7 @@
 - [The Tattoo Center](https://github.com/nabinn10/The-Tattoo-Center) 🖋️
 - [Bombay Hotpot - Hotel Ordering System](https://bombayhotpot.com) 🏨
 - [Prakash Homes](https://prakashhomes.ca/) 🏠
-- [Nabin Forum](https://forum.nabinpdl.com.np/) 💬
+- [Nabin Questions Forum](https://forum.nabinpdl.com.np/) 💬
 
 
 
