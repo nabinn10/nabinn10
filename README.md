@@ -16,12 +16,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinn10&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🚀 My Featured Projects:
+- [My Portfolio](https://nabinpdl.com.np/) 🌐
 - [The Online Liquor Vault](https://github.com/nabinn10/The-Online-Liquor-Vault) 🍾
 - [The Dental Clinic](https://github.com/nabinn10/The-Dental-Clinic) 🦷
 - [The Tattoo Center](https://github.com/nabinn10/The-Tattoo-Center) 🖋️
-- [Event Booking System](https://github.com/nabinn10/Event-Booking-System) 🎟️
 - [Bombay Hotpot - Hotel Ordering System](https://bombayhotpot.com) 🏨
 - [Prakash Homes](https://prakashhomes.ca/) 🏠
+- [Nabin Forum](https://forum.nabinpdl.com.np/) 💬
+
 
 
 ## 🏆 GitHub Trophies
